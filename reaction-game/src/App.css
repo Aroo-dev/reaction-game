@@ -1,0 +1,48 @@
+.App {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.click-area {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #333;
+  cursor: pointer;
+  font-size: 48px;
+  color: white;
+  transition: background-color 0.5s;
+}
+
+.click-area span {
+  font-size: 48px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.stats p {
+  margin: 5px 0;
+}
+
+.high-scores h2 {
+  margin-bottom: 10px;
+}
+
+.high-scores ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.high-scores li {
+  background-color: white;
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
