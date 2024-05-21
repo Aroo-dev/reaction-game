@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="refleksomierz/node_modules" />
     <excludedPredefinedLibrary name="refleksomierz/reaction-game/node_modules" />
   </component>
 </project>
